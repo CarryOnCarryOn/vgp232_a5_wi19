@@ -4,11 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment5.Data
+namespace Assignment5
 {
-    [Serializable]
-    public class Pokemon
+    public class Pokedex
     {
-
     }
 }

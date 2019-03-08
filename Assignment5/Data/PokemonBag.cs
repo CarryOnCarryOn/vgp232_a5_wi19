@@ -10,6 +10,7 @@ namespace Assignment5.Data
     /// <summary>
     /// Contains all the pokemons caught based listing them with their index
     /// </summary>
+    [Serializable]
     public class PokemonBag
     {
         [XmlArray]

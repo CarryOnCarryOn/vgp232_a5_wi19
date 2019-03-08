@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Assignment5.Data
 {
+    [Serializable]
     public class Pokemon
     {
         public int Index { get; set; }

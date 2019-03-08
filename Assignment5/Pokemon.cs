@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignment5.Data
+namespace Assignment5
 {
     public class Pokemon
     {
-
     }
 }

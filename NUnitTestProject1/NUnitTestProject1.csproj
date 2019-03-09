@@ -16,9 +16,6 @@
     <ProjectReference Include="..\Assignment5\Assignment5.csproj" />
   </ItemGroup>
 
-</Project>
-<Project Sdk="Microsoft.NET.Sdk">
-
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
 
